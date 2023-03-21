@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\bin\Debug\10a zad we.exe.config
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\bin\Debug\10a zad we.exe
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\bin\Debug\10a zad we.pdb
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\obj\Debug\10a zad we.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\obj\Debug\10a zad we.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\obj\Debug\10a zad we.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\obj\Debug\10a zad we.exe
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\10a zad we\obj\Debug\10a zad we.pdb
