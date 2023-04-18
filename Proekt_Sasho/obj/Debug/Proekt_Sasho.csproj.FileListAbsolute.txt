@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\bin\Debug\Proekt_Sasho.exe.config
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\bin\Debug\Proekt_Sasho.exe
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\bin\Debug\Proekt_Sasho.pdb
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\obj\Debug\Proekt_Sasho.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\obj\Debug\Proekt_Sasho.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\obj\Debug\Proekt_Sasho.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\obj\Debug\Proekt_Sasho.exe
+C:\Users\STUDENTS-1409-10\Desktop\10a Discovery 2\Proekt_Sasho\obj\Debug\Proekt_Sasho.pdb
